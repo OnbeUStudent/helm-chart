@@ -3,22 +3,22 @@ entries:
   apptemplate:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2021-10-05T14:49:08.1989807-05:00"
+    created: "2021-10-06T10:52:36.7444112-05:00"
     description: A Helm chart for Kubernetes
     digest: 812002a8ae93a0f978c70acbbe59e8e280b40fa84a68e189ab756c36fec42f4b
     name: apptemplate
     type: application
     urls:
-    - https://github.com/OnbeUStudent/helm-chart/apptemplate-0.1.1.tgz
+    - https://OnbeUStudent.github.io/helm-chart/apptemplate-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T14:49:08.1984151-05:00"
+    created: "2021-10-06T10:52:36.7362005-05:00"
     description: A Helm chart for Kubernetes
     digest: 67266f5bc733272b36ce30d8d994a8d27fa891da861d72967802df6492806fbd
     name: apptemplate
     type: application
     urls:
-    - https://github.com/OnbeUStudent/helm-chart/apptemplate-0.1.0.tgz
+    - https://OnbeUStudent.github.io/helm-chart/apptemplate-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-05T14:49:08.1912739-05:00"
+generated: "2021-10-06T10:52:36.7296712-05:00"
